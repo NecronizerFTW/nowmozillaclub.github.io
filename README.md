@@ -14,9 +14,3 @@ We have conducted a couple of successful events, and have laid the groundwork fo
 We're committed to everything Open Source and all things Secure!
 
 Check out the [website](http://nowmozilla.club) and stay tuned for more updates!
-
-## The site was redesigned with Material Design by:
-- Urmil Shroff
-- Priyansh Ramnani
-- Mamta Yadav
-- Nirmit Agrawal
